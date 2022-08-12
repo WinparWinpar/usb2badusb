@@ -4,4 +4,4 @@ This is how to turn a normal USB into a badUSB.
 
 ## Instructions
 
-1. Download [USB AutoRun Creator](google.com)
+1. Download [USB AutoRun Creator](https://google.com)
